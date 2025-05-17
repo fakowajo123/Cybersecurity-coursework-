@@ -21,5 +21,11 @@ This repository contains two primary documents:
   - Best practices for regular vulnerability management and reporting.
 
 ---
+## Coursework Contents
+
+| File | Description |
+|------|-------------|
+| [information security asssesment](information%20security%20asssesment) | Provides an overview of methodologies and best practices for information security assessments. |
+| [vulnerability assesment](vulnerability%20assesment) | Step-by-step guide for performing vulnerability assessments using Nessus. |
 
 These resources are ideal for students, professionals, or anyone interested in learning how to assess and strengthen information security within an organization. Each guide is written to be practical and actionable, helping you gain real-world cybersecurity skills.
