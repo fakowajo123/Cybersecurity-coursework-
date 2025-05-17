@@ -16,7 +16,6 @@ This repository contains two primary documents:
 ### 2. Vulnerability Assessment (with Nessus)
 - **Purpose:** To provide hands-on guidance for conducting vulnerability assessments using Nessus, a leading vulnerability scanning tool.
 - **Contents:**
-  - Step-by-step instructions on installing, configuring, and running Nessus scans.
   - Details on interpreting scan results and prioritizing remediation.
   - Best practices for regular vulnerability management and reporting.
 
