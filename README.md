@@ -25,7 +25,7 @@ This repository contains two primary documents:
 
 | File | Description |
 |------|-------------|
-| [Information Security Asssesment..pdf]([Information%20Security%20Asssesment..pdf]) | Provides an overview of methodologies and best practices for information security assessments. |
-| [Vulnerability Assesment..pdf]([Vulnerability%20Assesment..pdf]) | Step-by-step guide for performing vulnerability assessments using Nessus. |
+| [Information Security Asssesment..pdf](Information%20Security%20Asssesment..pdf) | Provides an overview of methodologies and best practices for information security assessments. |
+| [Vulnerability Assesment..pdf](Vulnerability%20Assesment..pdf) | Step-by-step guide for performing vulnerability assessments using Nessus. |
 
 These resources are ideal for students, professionals, or anyone interested in learning how to assess and strengthen information security within an organization. Each guide is written to be practical and actionable, helping you gain real-world cybersecurity skills.
